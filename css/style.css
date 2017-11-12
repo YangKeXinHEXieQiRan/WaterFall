@@ -1,0 +1,9 @@
+.waterfall-item {
+    float: left;
+    position: relative;
+    margin: 10px;
+}
+
+.waterfall {
+    margin: 0 auto;
+}
